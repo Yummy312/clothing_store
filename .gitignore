@@ -1,0 +1,10 @@
+venv
+.env
+.idea
+migrations
+db.sqlite3
+user.__pycache__/
+product.__pycache__/
+.pytest_cache/
+.coverage
+__pycache__
